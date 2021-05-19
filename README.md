@@ -9,8 +9,8 @@ The idea of this project is to analyze a twitter dataset and use it to train a M
 
 2>Inspect
 
-3>visualizing the dataset (Using Python tools like matplotlib, wordcloud modules to visuialize our data.)
+3>cleaning and transform
 
-4>cleaning and transform
+4>visualizing the dataset (Using Python tools like matplotlib, wordcloud modules to visuialize our data.)
 
 5>model the data for training the Machine Learning Model to predict whether the content is Offensive or Not.
