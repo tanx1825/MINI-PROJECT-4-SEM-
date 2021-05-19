@@ -1,5 +1,5 @@
 # MINI-PROJECT-4-SEM-
-# OFFENSIVE CONTENT DETECTION IN SOCIAL MEDIA
+# DETECTING OFFENSIVE CONTENT ON SOCIAL MEDIA
 The idea of this project is to analyze a twitter dataset and use it to train a Machine Learning model which can then use that model to predict weather the text or tweet is Offensive or Not.
 
 ## STEPS
