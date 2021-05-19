@@ -5,7 +5,7 @@ The idea of this project is to analyze a twitter dataset and use it to train a M
 ## STEPS
 1>Loading dataset
 -> train.csv
--> test.csv(for testing the test only)
+-> test.csv(for testing the model only)
 
 2>Inspect
 
